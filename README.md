@@ -5,7 +5,7 @@
 - 🔭 Studying Systems Ingineering at FRVM UTN. 
 - 📚 I’m currently learning FullStack development.
 - 🌱 Enthusiast in Data Bases and Artificial Intelligence.
-- ✍️ One of my hobbies is photography
+- ✍️ One of my hobbies is photography.
 
 <h3> 📫 Connect with Me</h3>
 
