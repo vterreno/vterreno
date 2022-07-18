@@ -1,5 +1,5 @@
 ## Hi there, I'm Valentino Terreno 👋
-<img src="https://user-images.githubusercontent.com/78498733/179569488-59fa5939-ee9b-4859-9883-aaf7a974cc08.png" align="right" width="450" height="250"/></a>
+<img src="https://user-images.githubusercontent.com/78498733/179569488-59fa5939-ee9b-4859-9883-aaf7a974cc08.png" align="right" width="350" height="180"/></a>
 <h3> 👨🏻‍💻 About me </h3>
 
 - 🔭 Studying Systems Ingineering at FRVM UTN. 
