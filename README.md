@@ -1,5 +1,5 @@
 # Hola, soy Valentino Terreno 👋
-Soy estudiante de Ing. En Sistenas de Información en la UTN - FRVM. Además, me desempeño como desarrollador web, combinando mis estudios con la práctica en el mundo de la programación. Mi pasión por la tecnología me impulsa a aprender constantemente, explorando nuevas herramientas y técnicas para crear nuevas experiencias digitales.
+Soy estudiante de Ing. En Sistemas de Información en la UTN - FRVM. Además, me desempeño como desarrollador web, combinando mis estudios con la práctica en el mundo de la programación. Mi pasión por la tecnología me impulsa a aprender constantemente, explorando nuevas herramientas y técnicas para crear nuevas experiencias digitales.
 
 * 💻 Actualmente trabajo con Angular, aunque también utilizo Python y Java. 
 * :books: Idiomas: C1 Inglés | Nativo Español | A2 Italiano
