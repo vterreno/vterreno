@@ -7,11 +7,11 @@ Soy estudiante de Ing. En Sistemas de Información en la UTN - FRVM. Además, me
 ## 📫 Contacto 
 
 <div> 
-<a href="https://www.linkedin.com/in/valentino-terreno-89372a232/"><img src="https://user-images.githubusercontent.com/78498733/179557451-199cd2fc-d58d-48e0-9ba7-9d2815318df0.png" align="left" width="32" height="32"/></a>
+<a href="https://www.linkedin.com/in/valentino-terreno-89372a232/" target="_blank"><img src="https://user-images.githubusercontent.com/78498733/179557451-199cd2fc-d58d-48e0-9ba7-9d2815318df0.png" align="left" width="32" height="32"/></a>
 
-<a href="mailto:ninot2016@gmail.com"><img src="https://user-images.githubusercontent.com/78498733/179564282-212ca254-1ad7-45ed-bac7-6d6def965f91.png" align="left" width="32" height="32"/></a>
+<a href="mailto:ninot2016@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/78498733/179564282-212ca254-1ad7-45ed-bac7-6d6def965f91.png" align="left" width="32" height="32"/></a>
          
-<a href="https://vterreno.com.ar/"><img src="https://user-images.githubusercontent.com/78498733/179561966-e2867d85-1180-4923-b4ef-8f67ee059bb6.png" align="left" width="32" height="32"/></a>
+<a href="https://vterreno.com.ar/" target="_blank"><img src="https://user-images.githubusercontent.com/78498733/179561966-e2867d85-1180-4923-b4ef-8f67ee059bb6.png" align="left" width="32" height="32"/></a>
 
 </div>
 
