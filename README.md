@@ -1,7 +1,7 @@
 # Hola, soy Valentino Terreno 👋
 Soy estudiante de Ing. En Sistemas de Información en la UTN - FRVM. Además, me desempeño como desarrollador web, combinando mis estudios con la práctica en el mundo de la programación. Mi pasión por la tecnología me impulsa a aprender constantemente, explorando nuevas herramientas y técnicas para crear nuevas experiencias digitales.
 
-* 💻 Actualmente trabajo con Angular, aunque también utilizo Python y Java. 
+* 💻 Actualmente trabajo con PHP (Laravel), aunque también utilizo Python, Java y Angular. 
 * :books: Idiomas: C1 Inglés | Nativo Español | A2 Italiano
 
 ## 📫 Contacto 
@@ -11,7 +11,7 @@ Soy estudiante de Ing. En Sistemas de Información en la UTN - FRVM. Además, me
 
 <a href="mailto:ninot2016@gmail.com"><img src="https://user-images.githubusercontent.com/78498733/179564282-212ca254-1ad7-45ed-bac7-6d6def965f91.png" align="left" width="32" height="32"/></a>
          
-<a href="https://portf-vterreno.web.app/"><img src="https://user-images.githubusercontent.com/78498733/179561966-e2867d85-1180-4923-b4ef-8f67ee059bb6.png" align="left" width="32" height="32"/></a>
+<a href="https://vterreno.com.ar/"><img src="https://user-images.githubusercontent.com/78498733/179561966-e2867d85-1180-4923-b4ef-8f67ee059bb6.png" align="left" width="32" height="32"/></a>
 
 </div>
 
